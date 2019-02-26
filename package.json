@@ -1,0 +1,17 @@
+{
+    "name": "Wyszukiwarka-GIF-w",
+    "version": "1.0.0",
+    "description": "",
+    "main": "App.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "http-server"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "colors": "^1.3.3",
+      "stat-mode": "^0.2.2"
+    }
+}
