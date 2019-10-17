@@ -1,4 +1,4 @@
-# Wyszukiwarka-GIF-w
+# App for finding GIFs
 
 Technology and solutions: 
 
